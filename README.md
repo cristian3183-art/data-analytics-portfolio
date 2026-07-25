@@ -47,8 +47,7 @@ The dashboard was designed to help analyze sales performance by region, category
 
 ## 📷 Dashboard Preview
 
-dashboard_preview.png
-
+![Dashboard Preview](images/dashboard_preview.png)
 ---
 
 ## 📁 Project Structure
