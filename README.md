@@ -1,37 +1,71 @@
-# 👋 Hola, soy Cristian Murillo
+# 📊 Sales Analysis Dashboard
 
-## Data Analyst Portfolio
+## 📌 Project Overview
 
-Bienvenido a mi portafolio de proyectos de análisis de datos.
+This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel.
 
-Actualmente me encuentro en transición hacia una carrera como Analista de Datos, combinando más de 10 años de experiencia en atención al cliente y operaciones financieras con nuevas habilidades en análisis de datos.
+The dashboard was designed to help analyze sales performance by region, category, product, and month using Pivot Tables, Pivot Charts, KPIs, and Slicers.
 
-## 🛠️ Habilidades
+---
 
-- Excel
-- SQL
-- Python
-- Tableau
-- Análisis de Datos
-- Limpieza de Datos
-- Visualización de Datos
+## 🛠 Tools Used
 
-## 📜 Certificaciones
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
 
-- Cisco - Introduction to Data Science
-- Cisco - Data Analytics
-- Python Essentials 1
+---
 
-## 📂 Proyectos
+## 📈 Key Performance Indicators (KPIs)
 
-Próximamente encontrarás aquí proyectos de:
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
 
-- Dashboard de Ventas en Excel
-- Análisis de Datos con Python
-- Consultas SQL
-- Dashboard en Tableau
+---
 
-## 📫 Contacto
+## 📊 Dashboard Visualizations
 
-- LinkedIn: (Lo agregaremos después)
-- Email: cristian3183@gmail.com
+- Sales by Region
+- Sales by Category
+- Sales by Month
+- Profit by Product
+
+---
+
+## 💡 Business Questions Answered
+
+- Which region generated the highest sales?
+- Which category generated the highest revenue?
+- Which products generated the highest profit?
+- How did sales change throughout the year?
+
+---
+
+## 📷 Dashboard Preview
+
+> *(Insert your dashboard screenshot here)*
+
+---
+
+## 📁 Project Structure
+
+```text
+sales-analysis-excel-dashboard
+│
+├── sales_analysis_dashboard.xlsx
+├── README.md
+└── images
+    └── dashboard_preview.png
+```
+
+---
+
+## 👤 Author
+
+**Cristian Murillo**
+
+Aspiring Data Analyst | Excel | SQL | Python | Tableau
