@@ -47,7 +47,7 @@ The dashboard was designed to help analyze sales performance by region, category
 
 ## 📷 Dashboard Preview
 
-> *(Insert your dashboard screenshot here)*
+dashboard_preview.png
 
 ---
 
